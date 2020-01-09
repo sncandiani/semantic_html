@@ -1,0 +1,21 @@
+.main_section {
+    font-family: 'Times New Roman', Times, serif
+}
+.basic_info_section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: darkslategrey;
+    color: goldenrod;
+    font-style: bold;
+    width: 100%
+    padding: 20px;
+}
+.joe_image{
+    display: flex;
+    width: 25%
+    
+}
+.links_section {
+    display: flex;
+    width: 1%;
+}
