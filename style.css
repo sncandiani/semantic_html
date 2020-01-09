@@ -7,15 +7,22 @@
     background-color: darkslategrey;
     color: goldenrod;
     font-style: bold;
-    width: 100%
+    width: 100%;
     padding: 20px;
 }
-.joe_image{
-    display: flex;
-    width: 25%
-    
+.description_section {
+    text-align: center;
+}
+.twitter_logo {
+    display: flex; 
+    flex-wrap: wrap;
+    width: 35px;
+
 }
 .links_section {
     display: flex;
-    width: 1%;
+    flex-wrap: wrap;
+    justify-items: right;
+    width: 75%;
 }
+
